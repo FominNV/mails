@@ -21,7 +21,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "dev": "email dev --dir ./src/emails"
+    "dev": "email dev --dir ./src/emails",
+    "build": "email dev --dir ./src/emails"
   },
   "eslintConfig": {
     "extends": [
