@@ -22,7 +22,8 @@
   },
   "scripts": {
     "dev": "email dev --dir ./src/emails",
-    "build": "email build --dir ./src/emails"
+    "build": "email build --dir ./src/emails",
+    "start": "email start"
   },
   "eslintConfig": {
     "extends": [
